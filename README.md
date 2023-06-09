@@ -25,3 +25,23 @@ This is a repository for LangChain LLM application development studies.
 <img width="1087" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/4f693c92-5867-4c45-baec-9ab155d51089">
 
 <img width="1069" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/bfc5b346-372d-4bdd-8526-aefa63390f0c">
+
+# Memory 
+
+---
+
+<img width="1086" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/485abfeb-d323-430c-9604-878e2dedbada">
+
+<img width="1076" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/d463bbd9-24cb-4569-89d3-d215306ac7c2">
+
+<img width="1080" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/dae0f5a4-3bb3-4747-b80e-139c88ac49c6">
+
+<img width="1074" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/4013ff3f-d014-43b1-9628-ccec09e81edd">
+
+<img width="1076" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/87b9086e-2351-40ce-9d6a-1ab526972c64">
+
+<img width="1078" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/d9c90fa4-3c09-435c-bd17-2dba5773aacf">
+
+<img width="1079" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/286dda12-a7f3-417a-8ebd-9923e67c76e1">
+
+<img width="1078" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/7e406a1b-6280-4940-916a-b772a9123a8f">
