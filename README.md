@@ -67,3 +67,37 @@ This is a repository for LangChain LLM application development studies.
 <img width="1075" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/512c1d44-251a-4cd4-a448-3373a520f000">
 
 <img width="1078" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/35f6a534-ecf9-4494-aa67-04b4225decea">
+
+# Question and Answer 
+
+<img width="1082" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/9faa8262-16b7-4003-9e8f-d5e6361b2244">
+
+<img width="1076" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/ccdab428-02c7-435b-9bce-4384438211bd">
+
+<img width="1078" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/76eb6856-6f43-45b7-b0ae-9f5d4adde2b5">
+
+<img width="1078" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/6c8bdbc8-cf2c-4d6f-8155-63c06e806070">
+
+<img width="1082" alt="image" src="https://github.com/lucasquemelli/langchain_llm_application/assets/81119854/a8c1c39c-f29a-433d-a1f3-5a48fee80d40">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
